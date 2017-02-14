@@ -9,7 +9,7 @@ import com.hp.lft.sdk.GeneralLeanFtException;
 import com.hp.lft.sdk.web.BrowserFactory;
 import com.hp.lft.sdk.web.BrowserType;
 import org.junit.*;
-import unittesting.UnitTestClassBase;
+import net.unittesting.UnitTestClassBase;
 
 public class LeanFtTest extends UnitTestClassBase {
 
